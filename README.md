@@ -11,3 +11,5 @@ The number of blank small circles is the number of colours in your answer that a
 When you choose an answer, you must fill all the circles and with distinct colours.
 You get ten chances to guess the code correctly.
 Best of Luck!
+
+![image](https://user-images.githubusercontent.com/80163660/236688700-b64c5e93-a391-4b68-a19d-3bb21f92396d.png)
